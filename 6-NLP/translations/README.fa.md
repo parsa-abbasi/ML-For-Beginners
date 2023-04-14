@@ -12,11 +12,11 @@
   
 ## درسنامه‌ها
 
-1. [مقدمه‌ای بر پردازش زبان طبیعی](1-Introduction-to-NLP/README.md)
-2. [مسائل و تکنیک‌های رایج NLP](2-Tasks/README.md)
-3. [ترجمه و تحلیل احساس با یادگیری ماشین](3-Translation-Sentiment/README.md)
-4. [آماده‌سازی داده‌های شما](4-Hotel-Reviews-1/README.md)
-5. [کتابخانه‌ی NLTK برای تحلیل احساس](5-Hotel-Reviews-2/README.md)
+1. [مقدمه‌ای بر پردازش زبان طبیعی](../1-Introduction-to-NLP/README.md)
+2. [مسائل و تکنیک‌های رایج NLP](../2-Tasks/README.md)
+3. [ترجمه و تحلیل احساس با یادگیری ماشین](../3-Translation-Sentiment/README.md)
+4. [آماده‌سازی داده‌های شما](../4-Hotel-Reviews-1/README.md)
+5. [کتابخانه‌ی NLTK برای تحلیل احساس](../5-Hotel-Reviews-2/README.md)
 
 ## اعتبار 
 
