@@ -7,7 +7,7 @@
 
 در این درسنامه‌ها با ساخت بات‌های محاوره‌ای کوچک، مقدمات NLP را یاد خواهیم گرفت و خواهیم دید که چگونه یادگیری ماشین به کمک این مکالمات می‌آید تا آن‌ها را هر چه بیشتر «هوشمند» کند. همچنین شما به گذشته سفر خواهید کرد و با الیزابت بِنِت (Elizabeth Bennett) و آقای دارسی (Mr. Darcy) از رمان کلاسیک **غرور و تعصب (Pride and Prejudice)**، اثر جین آستن (Jane Austen) که در سال ۱۸۱۳ منتشر شده گفت‌و‌گو خواهید کرد. سپس، با یادگیری تحلیل احساس روی دیدگاه‌های هتل‌های اروپا، دانش خود را گسترده‌تر خواهید کرد.
 
-![کتاب غرور و تعصب و چای](images/p&p.jpg)
+![کتاب غرور و تعصب و چای](../images/p&p.jpg)
 > عکس توسط <a href="https://unsplash.com/@elaineh?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Elaine Howlin</a> در <a href="https://unsplash.com/s/photos/pride-and-prejudice?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 ## درسنامه‌ها
